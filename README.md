@@ -4,4 +4,4 @@
 2. Unzip the Unity Player zip file. <br>
 3. Press the ESC button to exit from the game. <br>
 4. The 1-player game uses the space bar to increase the bird's level, the f button is used to give the bird a boost. <br>
-5. The game is still under development for better user  <br>
+5. The game is still under development for better user experience. <br>
